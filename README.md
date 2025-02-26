@@ -10,7 +10,8 @@ The Ordnance Library is fed by two different SharePoint Online lists. These list
 
 ## Home Page
 Home page is broken into three different parts, Ordnance Library, New Item, and Transferred Ordnance items. It also displays the current available serial number.
-[Excel Documentation](#exceldocumentation)
+
+[Excel Documentation](##exceldocumentation)
 
 ## Main Page
 
