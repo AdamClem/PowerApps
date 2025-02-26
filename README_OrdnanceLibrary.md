@@ -1,4 +1,4 @@
-## Ordnance Library
+## Ordnance Library PowerApp
 The Ordnance Library is fed by two different SharePoint Online lists. These lists are split into ordnance items transferred outside of our organization and those that are retained within our building. This also helps alleviate the limitation of PowerApps maximum limit of 2000 rows.
 
 ## Home Page
