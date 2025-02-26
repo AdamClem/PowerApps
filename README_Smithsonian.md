@@ -12,3 +12,15 @@ The home page has links to each physical locations. Specialized teams are sent t
 **Update Tech Details**: Specific explosive ordnance data is updated for further research and submission to headquarters elements for ingestion into publication system.
 
 **Manage Adjacent Teams**: Teams that assist the Smithsonian come from across the Marine Corps (Camp Lejeune NC, Camp Pendleton CA, Yuma Air Station AZ, Camp Foster Japan) 
+
+![Smithsonian_PowerApp/Smithsonian Home - Updated.png](https://github.com/AdamClem/PowerApps/blob/main/Smithsonian_PowerApp/Smithsonian%20Home%20-%20Updated.png)
+
+![Smithsonian_PowerApp/Ord_3205.png](https://github.com/AdamClem/PowerApps/blob/main/Smithsonian_PowerApp/ORD_3205.png)
+
+![Smithsonian_PowerApp/Ord_B37.png](https://github.com/AdamClem/PowerApps/blob/main/Smithsonian_PowerApp/ORD_B37.png)
+
+![Smithsonian_PowerApp/Pensy_Ord.png](https://github.com/AdamClem/PowerApps/blob/main/Smithsonian_PowerApp/Pennsy_Ord.png)
+
+![Smithsonian_PowerApp/Whaling_Obj.png](https://github.com/AdamClem/PowerApps/blob/main/Smithsonian_PowerApp/Whaling_Obj.png)
+
+![Smithsonian_PowerApp/Ammo_All_Kept.png](https://github.com/AdamClem/PowerApps/blob/main/Smithsonian_PowerApp/Ammo_All_Kept.png)
