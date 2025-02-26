@@ -10,5 +10,7 @@ The Ordnance Library is fed by two different SharePoint Online lists. These list
 
 ### Features
 **Ordnance Item Lookup**: Allows a user to find an ordnance item within our building. It can be searched by it's nomenclature, serial number, or location. Each of our shelves are labeled so that items on specific shelves can be found. This is vital for inspection as the inspector will select a shelf and pick several items and inspect the documentation.
+
 **Modify Details**: Users can upload photos into the PowerApp that are then posted into SharePoint and serve as the thumbnail. If a user is looking via SharePoint online instead of needing to memorize each item by it's nomenclature a thumbnail will greatly help in finding the item.
+
 **Generate Inert Certification**: The biggest time drain in adding an ordnance item is completing the inert certification paperwork. This requires multiple fields and two signatures. The application will generate an inert cert that is printed and can be wet signed or with a digital signature.
