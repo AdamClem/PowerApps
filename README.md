@@ -14,3 +14,5 @@ The Ordnance Library is fed by two different SharePoint Online lists. These list
 **Modify Details**: Users can upload photos into the PowerApp that are then posted into SharePoint and serve as the thumbnail. If a user is looking via SharePoint online instead of needing to memorize each item by it's nomenclature a thumbnail will greatly help in finding the item.
 
 **Generate Inert Certification**: The biggest time drain in adding an ordnance item is completing the inert certification paperwork. This requires multiple fields and two signatures. The application will generate an inert cert that is printed and can be wet signed or with a digital signature.
+
+### Home Screen
