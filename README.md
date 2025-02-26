@@ -1,2 +1,2 @@
 ### Ordnance Library
-[View Documentation](PowerApps/README_OrdnanceLibrary.md)
+[View Documentation](README_OrdnanceLibrary.md)
