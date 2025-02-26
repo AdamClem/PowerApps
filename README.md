@@ -8,6 +8,14 @@ Both of these PowerApps are built using a model-driven design. These two PowerAp
 ## Ordnance Library
 The Ordnance Library is fed by two different SharePoint Online lists. These lists are split into ordnance items transferred outside of our organization and those that are retained within our building. This also helps alleviate the limitation of PowerApps maximum limit of 2000 rows.
 
+## Home Page
+Home page is broken into three different parts, Ordnance Library, New Item, and Transferred Ordnance items. It also displays the current available serial number.
+[Excel Documentation](#exceldocumentation)
+
+## Main Page
+
+## Transferred Ordnance Items
+
 ### Features
 **Ordnance Item Lookup**: Allows a user to find an ordnance item within our building. It can be searched by it's nomenclature, serial number, or location. Each of our shelves are labeled so that items on specific shelves can be found. This is vital for inspection as the inspector will select a shelf and pick several items and inspect the documentation.
 
@@ -27,3 +35,4 @@ The Ordnance Library is fed by two different SharePoint Online lists. These list
 ### Transferred Ordnance Items
 ![Ordnance Library PowerApp/Tx Ord Items - Updated.png](https://github.com/AdamClem/PowerApps/blob/main/Ordnance_Library_PowerApp/Tx%20Ord%20Items%20-%20Updated.png)
 
+### Excel Documentation
