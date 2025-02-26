@@ -16,3 +16,14 @@ The Ordnance Library is fed by two different SharePoint Online lists. These list
 **Generate Inert Certification**: The biggest time drain in adding an ordnance item is completing the inert certification paperwork. This requires multiple fields and two signatures. The application will generate an inert cert that is printed and can be wet signed or with a digital signature.
 
 ### Home Screen
+![Ordnance_Library_PowerApp/Power Apps Homescreen.png](https://github.com/AdamClem/PowerApps/blob/main/Ordnance_Library_PowerApp/Power%20Apps%20Homescreen.png)
+
+### Main Page Ordnance Library
+![Ordnance Library PowerApp/Library Main Page - Updated.png](https://github.com/AdamClem/PowerApps/blob/main/Ordnance_Library_PowerApp/Library%20Main%20Page%20-%20Updated.png)
+
+### Inert Certification
+![Ordnance Library PowerApp/Library Inert Cert - Updated.png](https://github.com/AdamClem/PowerApps/blob/main/Ordnance_Library_PowerApp/Library%20Inert%20Cert%20-%20Updated.png)
+
+### Transferred Ordnance Items
+![Ordnance Library PowerApp/Tx Ord Items - Updated.png](https://github.com/AdamClem/PowerApps/blob/main/Ordnance_Library_PowerApp/Tx%20Ord%20Items%20-%20Updated.png)
+
